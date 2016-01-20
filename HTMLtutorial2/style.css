@@ -1,0 +1,32 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+ul {
+	list-style: none;
+}
+a {
+	color: #b42ff9;
+	text-decoration: none;
+	border-bottom: 5px dotted #32ff3f;
+}
+.pictures {
+	margin: 10px auto;
+	width: 900px;
+}
+#logo {
+	margin: 0 auto 30px;
+	width: 100px;
+}
+.pictures li {
+	display: inline;
+	margin: 3px;
+}
+img {
+  margin: 0;
+  border: 0;
+}
+.bigimg img {
+  margin: 15px 2px;
+  width: 439px;
+  border: 2px solid #b9b1bf;
+}
